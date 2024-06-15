@@ -397,6 +397,11 @@ Este proceso puede tardar hasta 24 horas en propagarse.
 
 1. **Finalizar Configuración:** Una vez que la configuración esté correcta, tu dominio estará protegido por Cloudflare. Selecciona HTTPS siempre activado.
 
+Luego vamos a SSL/TLS y seleccionamos `Overview` y seleccionamos `Full`.
+
+![cloudflare](assets/20.png)
+
+
 Finalmente, tu dominio estará protegido por Cloudflare y tendrá un certificado SSL. Además, contarás con protección contra DDoS, ataques de SQL Injection, spam y bots maliciosos.
 
 Gracias a Cloudflare, tu aplicación web estará protegida y segura.
